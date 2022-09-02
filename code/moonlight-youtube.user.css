@@ -1336,32 +1336,23 @@ ytd-button-renderer[is-icon-button][has-no-text]{
 ytd-mini-guide-entry-renderer[darker-dark-theme]{
     background-color: var(--Dark-I);
 }
+ytd-app[darker-dark-theme]{
+    background-color: var(--Dark-I);
+}
 
+::-webkit-scrollbar {
+    width: 0.8rem;
+    height: 0.8rem;
+}
 
+::-webkit-scrollbar-track {
+    background: var(--dark-II);
+    border-radius: 10px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+::-webkit-scrollbar-thumb {
+    background: var(--dark-III);
+    border-radius: 10vw;
+}
 
 }
