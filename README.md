@@ -25,7 +25,6 @@ A color theme inspired by the camping vibe 🏕 for YouTube
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/nlTtRn7.png"> Gallery</h2>
 
-<br>
 
 #### Home page
 
